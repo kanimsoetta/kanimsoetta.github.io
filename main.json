@@ -59,14 +59,14 @@
                       {
                         "type": "wna",
                         "title": "WNA Masuk",
-                        "total_jiwa": "820.650 Jiwa",
-                        "desc": "Data Jan - Okt 2022"
+                        "total_jiwa": "950,471 Jiwa",
+                        "desc": "Data Jan - Nov 2022"
                       },
                       {
                         "type": "wni",
                         "title": "WNI Masuk",
-                        "total_jiwa": "1.868.679 Jiwa",
-                        "desc": "Data Jan - Okt 2022"
+                        "total_jiwa": "2,190,550 Jiwa",
+                        "desc": "Data Jan - Nov 2022"
                       }
                     ]
                   }
@@ -80,14 +80,14 @@
                       {
                         "type": "wna",
                         "title": "WNA Keluar",
-                        "total_jiwa": "773.032 Jiwa",
-                        "desc": "Data Jan - Okt 2022"
+                        "total_jiwa": "898,656 Jiwa",
+                        "desc": "Data Jan - Nov 2022"
                       },
                       {
                         "type": "wni",
                         "title": "WNI Keluar",
-                        "total_jiwa": "2.064.165 Jiwa",
-                        "desc": "Data Jan - Okt 2022"
+                        "total_jiwa": "2,401,890 Jiwa",
+                        "desc": "Data Jan - Nov 2022"
                       }
                     ]
                   }
@@ -1193,7 +1193,7 @@
                             "Ags": 213165,
                             "Sep": 280945,
                             "Okt": 290658,
-                            "Nov": 0,
+                            "Nov": 316473,
                             "Des": 0
                           },
                           "datalabels": {
@@ -1216,7 +1216,7 @@
                             "Ags": 138604,
                             "Sep": 128067,
                             "Okt": 117409,
-                            "Nov": 0,
+                            "Nov": 126872,
                             "Des": 0
                           },
                           "datalabels": {
@@ -1255,14 +1255,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Masuk",
-                              "total_jiwa": "820.650 Jiwa",
-                              "desc": "Data Jan - Okt 2022"
+                              "total_jiwa": "950.471 Jiwa",
+                              "desc": "Data Jan - Nov 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Masuk",
-                              "total_jiwa": "1.868.679 Jiwa",
-                              "desc": "Data Jan - Okt 2022"
+                              "total_jiwa": "2.190.550  Jiwa",
+                              "desc": "Data Jan - Nov 2022"
                             }
                           ]
                         }
@@ -1294,7 +1294,7 @@
                             "Ags": 265981,
                             "Sep": 329994,
                             "Okt": 318093,
-                            "Nov": 0,
+                            "Nov": 329695,
                             "Des": 0
                           },
                           "datalabels": {
@@ -1317,7 +1317,7 @@
                             "Ags": 143066,
                             "Sep": 125254,
                             "Okt": 110693,
-                            "Nov": 0,
+                            "Nov": 123986,
                             "Des": 0
                           },
                           "datalabels": {
@@ -1356,14 +1356,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Keluar",
-                              "total_jiwa": "773.032 Jiwa",
-                              "desc": "Data Jan - Okt 2022"
+                              "total_jiwa": "898.656 Jiwa",
+                              "desc": "Data Jan - Nov 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Keluar",
-                              "total_jiwa": "2.064.165 Jiwa",
-                              "desc": "Data Jan - Okt 2022"
+                              "total_jiwa": "2.401.890 Jiwa",
+                              "desc": "Data Jan - Nov 2022"
                             }
                           ]
                         }
@@ -1488,7 +1488,17 @@
                             9173,
                             9160
                           ]
-                        }                          
+                        },
+                        {
+                          "periode": "November 2022",
+                          "data": [
+                            16299,
+                            14341,
+                            12420,
+                            10060,
+                            9587
+                          ]
+                        }                           
                       ],
                       "label": [
                         {
@@ -1590,7 +1600,17 @@
                             "Korea Selatan",
                             "Jepang"
                           ]
-                        }                        
+                        },
+                        {
+                          "periode": "November 2022",
+                          "data": [
+                            "Malaysia",
+                            "Tiongkok",
+                            "Singapura",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
+                        }                         
                       ],
                       "filter": [
                         {
@@ -1632,6 +1652,10 @@
                         {
                           "label": "Oktober 2022",
                           "value": "Oktober 2022"
+                        },
+                        {
+                          "label": "November 2022",
+                          "value": "November 2022"
                         }                        
                       ],
                       "colors": "#11375C"
@@ -1759,6 +1783,16 @@
                             9125,
                             8825
                           ]
+                        },
+                        {
+                          "periode": "November 2022",
+                          "data": [
+                            15955,
+                            13177,
+                            11100,
+                            9610,
+                            9056
+                          ]
                         }                        
                       ],
                       "label": [
@@ -1861,6 +1895,16 @@
                             "Korea Selatan",
                             "Jepang"
                           ]
+                        },
+                        {
+                          "periode": "November 2022",
+                          "data": [
+                            "Malaysia",
+                            "Tiongkok",
+                            "Singapura",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
                         }                        
                       ],
                       "filter": [
@@ -1903,7 +1947,11 @@
                         {
                           "label": "Oktober 2022",
                           "value": "Oktober 2022"
-                        }                         
+                        },
+                        {
+                          "label": "November 2022",
+                          "value": "November 2022"
+                        }                       
                       ],
                       "colors": "#FBAF17"
                     }

@@ -192,10 +192,14 @@
         ]
       },
       "headsOfficeList": [
-        {
-          "name": "Muhammad Tito Andrianto",
-          "years": "2022 - Sekarang"
-        },
+              {
+                "name": "Subki Miuldi",
+                "years": "2023 - Sekarang"
+              },              
+              {
+                "name": "Muhammad Tito Andrianto",
+                "years": "2022 - 2023"
+              },
         {
           "name": "Romi Yudianto",
           "years": "2020 - 2022"

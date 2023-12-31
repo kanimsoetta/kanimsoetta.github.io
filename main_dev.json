@@ -205,7 +205,7 @@
                   "title": "E-Perdim 11",
                   "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
                   "icon": "/images/apps/nF90pro.png",
-                  "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
+                  "appUrl": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/apps/eperdim11/"
                 },
                {
                   "title": "Izin Tinggal Online",
@@ -382,26 +382,26 @@
               "title": "Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
               "name": "Subki Miuldi, S.Kom., M.H.",
               "nip": "NIP. 197105281999031001",
-              "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Subki-KakanimSoetta-2023.webp"
+              "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Subki-KakanimSoetta-2023.webp"
             },
             "tu": [
               {
                 "title": "Kepala Bagian Tata Usaha",
                 "name": "Rusnia Simanjuntak, S.E.",
                 "nip": "NIP. 197006271991032001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Rusnia_Simanjuntak.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Rusnia_Simanjuntak.webp"
               },
               {
                 "title": "Kepala Sub Bagian Kepegawaian dan Umum",
                 "name": "Setyo Pitriyono, S.H",
                 "nip": "NIP. 196701141989031002",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Setyo_Pitriyono.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Setyo_Pitriyono.webp"
               },
               {
                 "title": "Kepala Sub Bagian Keuangan",
                 "name": "Edy Sriyatno, S.H",
                 "nip": "NIP. 196804092001121001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Edy_Sriyatno.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Edy_Sriyatno.webp"
               }
             ],
             "tikim": [
@@ -409,19 +409,19 @@
                 "title": "Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian",
                 "name": "Bambang Tri Cahyono, S.E.",
                 "nip": "NIP. 197112031999031001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Bambang_Tri_Cahyono.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Bambang_Tri_Cahyono.webp"
               },
               {
                 "title": "Kepala Seksi Teknologi Informasi Keimigrasian",
                 "name": "Wisli Marulamhot Sitompul, A.Md.Im., S.H., M.H.",
                 "nip": "NIP. 198803192009011002",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Wisli_Marulamhot_S.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Wisli_Marulamhot_S.webp"
               },
               {
                 "title": "Kepala Seksi Informasi dan Komunikasi Keimigrasian",
                 "name": "M. Rija Yulham, A.Md.Im., S.H., M.H.",
                 "nip": "NIP. 198301132002121006",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Rija-Kasi-Infokim.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Rija-Kasi-Infokim.webp"
               }
             ],
             "doklan": [
@@ -429,19 +429,19 @@
                 "title": "Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian",
                 "name": "Ryo Achdar, A.Md.Im., S.H., M.M.",
                 "nip": "NIP. 198611012006041001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Ryo-Kabid-Doklan.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Ryo-Kabid-Doklan.webp"
               },
               {
                 "title": "Kepala Seksi Dokumen Perjalanan",
                 "name": "Ganesa Wisesa, A.Md.Im.",
                 "nip": "NIP. 199305212016081001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Ganesa-Kasi-Dokjal.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Ganesa-Kasi-Dokjal.webp"
               },
               {
                 "title": "Kepala Seksi Izin Tinggal Keimigrasian",
                 "name": "Irvin Riko Saptony, S.H.",
                 "nip": "NIP. 198108292001121002",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Irvin_Riko_Saptony.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Irvin_Riko_Saptony.webp"
               }
             ],
             "intel": [
@@ -449,19 +449,19 @@
                 "title": "Kepala Bidang Intelijen dan Penindakan Keimigrasian",
                 "name": "Arfa Yudha Indriawan, S.H., M.H.",
                 "nip": "NIP. 198208052003121001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Arfa_Yudha_Indriawan.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Arfa_Yudha_Indriawan.webp"
               },
               {
                 "title": "Kepala Seksi Intelijen Keimigrasian",
                 "name": "Ardhi Riandy Yoga Mahardhika Lamarauna, A.Md.Im., S.E.",
                 "nip": "NIP. 199007262010121001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Ardhi_Riandy_Yoga_M.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Ardhi_Riandy_Yoga_M.webp"
               },
               {
                 "title": "Kepala Seksi Penindakan Keimigrasian",
                 "name": "Wilando, A.Md.Im., S.H., M.H.",
                 "nip": "NIP. 198807262009011001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Wilando.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Wilando.webp"
               }
             ],
             "tpi": [
@@ -469,31 +469,31 @@
                 "title": "Kepala Bidang Tempat Pemeriksaan Imigrasi",
                 "name": "Uchky Adhitya, S.H.",
                 "nip": "NIP. 198703302009011001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Avatar-Icon.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Avatar-Icon.webp"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan I",
                 "name": "Luthfan Pahlevi, S.Tr.Im., M.M.",
                 "nip": "NIP. 199410262016081001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Luthfan-Kasi-Riksa-1.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Luthfan-Kasi-Riksa-1.webp"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan II",
                 "name": "Hegarenda Diko Zendika, A.Md.Im., S.H.",
                 "nip": "NIP. 198806072008011003",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Hegarenda-Kasi-Riksa-2.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Hegarenda-Kasi-Riksa-2.webp"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan III",
                 "name": "Yopi Ariansah, S.H.",
                 "nip": "NIP. 198807162008011001",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Yopi-Kasi-Riksa-3.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Yopi-Kasi-Riksa-3.webp"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan IV",
                 "name": "Catur Febriandi Sutanto, A.Md.Im., S.H.",
                 "nip": "NIP. 199002082009121002",
-                "photo": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/images/pejabat/Catur_Febriandi_Sutanto.webp"
+                "photo": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/images/pejabat/Catur_Febriandi_Sutanto.webp"
               }
             ]
           }

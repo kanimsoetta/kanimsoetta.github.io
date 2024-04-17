@@ -11365,9 +11365,9 @@
       ]
     },
     {
-      "PublicInformation": [
+      "publicinformation": [
         {
-          "profilePPID": {
+          "ProfilePPID": {
             "pageTitle": "Pejabat Pengelola Informasi dan Dokumentasi (PPID)",
             "content": [
               {

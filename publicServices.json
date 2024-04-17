@@ -11422,35 +11422,51 @@
                         "title": "SK Penetapan PPID",
                         "content": [
                           {
-                            "type": "ol",
-                            "content": [
-                              {
-                                "type": "li",
-                                "content": "SK PPID 2024"
-                              },
-                              {
-                                "type": "li",
-                                "content": "SK PPID 2023"
-                              }
-                            ]
-                          }
+                            "type": "a",
+                            "content": {
+                              "title": "SK PPID 2024",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/docs/sk/SK-PPID-KanimSoetta-2024.pdf"
+                            }
+                          },
+                          {
+                            "type": "a",
+                            "content": {
+                              "title": "SK PPID 2023",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/docs/sk/SK-PPID-KanimSoetta-2023.pdf"
+                            }
+                          },
+                          {
+                            "type": "a",
+                            "content": {
+                              "title": "SK PPID 2022",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/docs/sk/SK-PPID-KanimSoetta-2022.pdf"
+                            }
+                          },
+                          {
+                            "type": "a",
+                            "content": {
+                              "title": "SK PPID 2021",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id:8001/web-content/uploads/docs/sk/SK-PPID-KanimSoetta-2021.pdf"
+                            }
+                          }						  
                         ]
-                      },
+                      },					  
                       {
                         "title": "Kegiatan Tata Kelola PPID",
                         "content": [
                           {
-                            "type": "ol",
-                            "content": [
-                              {
-                                "type": "li",
-                                "content": "Kegiatan Tata Kelola PPID 2024"
-                              },
-                              {
-                                "type": "li",
-                                "content": "Kegiatan Tata Kelola PPID 2023"
-                              }
-                            ]
+                            "type": "a",
+                            "content": {
+                              "title": "Kegiatan Tata Kelola PPID 2024",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id"
+                            }
+                          },
+                          {
+                            "type": "a",
+                            "content": {
+                              "title": "Kegiatan Tata Kelola PPID 2023",
+                              "link": "https://imigrasisoekarnohatta.kemenkumham.go.id"
+                            }
                           }
                         ]
                       }

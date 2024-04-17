@@ -11363,6 +11363,105 @@
           }
         }
       ]
-    }
+    },
+    {
+      "PublicInformation": [
+        {
+          "profilePPID": {
+            "pageTitle": "Pejabat Pengelola Informasi dan Dokumentasi (PPID)",
+            "content": [
+              {
+                "type": "ac",
+                "content": [
+                  {
+                    "firstExpand": true,
+                    "content": [
+                      {
+                        "title": "Dasar Hukum",
+                        "content": [
+                          {
+                            "type": "ol",
+                            "content": [
+                              {
+                                "type": "li",
+                                "content": "Undang-Undang No 14 Tahun 2008 tentang Keterbukaan Informasi Publik"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Undang-Undang Nomor 40 Tahun 1999 tentang Pers"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Undang-Undang Nomor 32 Tahun 2004 tentang Penyiaran"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor M.HH-05.OT.01.01 Tahun Tahun 2010 tentang Organisasi dan Tata Kerja Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia"
+                              },	
+                              {
+                                "type": "li",
+                                "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia Nomor M.HH-04.IN.04.02 Tahun 2011 tentang Tata Cara Pengelolaan dan Pelayanan Informasi Publik Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia"
+                              },	
+                              {
+                                "type": "li",
+                                "content": "Keputusan Menteri Hukum dan Hak Asasi Manusia Nomor M.HH-01.IN.01.03 Tahun 2010 tentang Pejabat Pengelola Informasi dan Dokumentasi Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia"
+                              }				  
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "SK Penetapan PPID",
+                        "content": [
+                          {
+                            "type": "ol",
+                            "content": [
+                              {
+                                "type": "li",
+                                "content": "SK PPID 2024"
+                              },
+                              {
+                                "type": "li",
+                                "content": "SK PPID 2023"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Kegiatan Tata Kelola PPID",
+                        "content": [
+                          {
+                            "type": "ol",
+                            "content": [
+                              {
+                                "type": "li",
+                                "content": "Kegiatan Tata Kelola PPID 2024"
+                              },
+                              {
+                                "type": "li",
+                                "content": "Kegiatan Tata Kelola PPID 2023"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }	
   ]
 }

@@ -17,7 +17,13 @@
     "servicesApp": {
       "title": "Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
       "content": [
-           {
+        {
+          "title": "M-Paspor",
+          "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
+          "icon": "/images/apps/bSABXYS.png",
+          "appUrl": "",
+          "mobileApps": [
+            {
               "type": "android",
               "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
               "url_image": "/images/apps/FHclioE.png"
@@ -70,7 +76,7 @@
           "description": "Tautan untuk melihat data dan informasi keimigrasian pada Imigrasi Soekarno-Hatta",
           "icon": "/images/apps/dmpFSbr.png",
           "appUrl": "https://103.231.115.5/"
-        }               
+        }                
       ]
     },
     "redirectSosmed": [

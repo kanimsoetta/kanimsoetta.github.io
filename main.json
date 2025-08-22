@@ -582,9 +582,17 @@
             },
             "headsOfficeList": [
               {
+                "name": "Galih Priya Kartika Perdhana",
+                "years": "2025 - Sekarang"
+              }, 
+              {
+                "name": "Johanes Fanny Satria C.A.",
+                "years": "2025 - 2025"
+              }, 
+              {
                 "name": "Subki Miuldi",
-                "years": "2023 - Sekarang"
-              },              
+                "years": "2023 - 2025"
+              },                
               {
                 "name": "Muhammad Tito Andrianto",
                 "years": "2022 - 2023"
@@ -1969,3 +1977,4 @@
     }
   ]
 }
+

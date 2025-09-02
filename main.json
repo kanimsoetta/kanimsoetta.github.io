@@ -537,14 +537,21 @@
             "service": {
               "title": "Visi, Misi, Motto dan Janji Layanan",
               "vision": "Masyarakat Memperoleh Kepastian Hukum",
-              "mission": "Melindungi Hak Asasi Manusia",
+              "mission": [
+                "Mewujudkan peraturan perundang-undangan yang berkualitas;",
+                "Mewujudkan pelayanan hukum yang berkualitas;",
+                "Mewujudkan penegakan hukum yang berkualitas;",
+                "Mewujudkan penghormatan, pemenuhan, dan perlindungan Hak Asasi Manusia;",
+                "Mewujudkan layanan manajemen administrasi Kementerian Hukum dan Hak Asasi Manusia; dan",
+                "Mewujudkan aparatur Kementerian Hukum dan Hak Asasi Manusia yang profesional dan berintegritas."
+              ]
               "motto": "Melayani Dengan Tulus",
               "servicePromise": [
-                "Kepastian Hukum",
-                "Kepastian Layanan",
+                "Kepastian Persyaratan",
+                "Kepastian Biaya",
                 "Kepastian Waktu Penyelesaian"
               ]
-            },
+            },            
             "workingArea": {
               "title": "Cakupan Wilayah Kerja Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta",
               "description1": "Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta merupakan Unit Pelaksana Teknis di bidang Keimigrasian, bertanggung jawab langsung kepada Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia DKI Jakarta. Tugas pokok dan fungsinya adalah memberikan pelayanan kepada masyarakat serta melaksanakan pengawasan perlintasan & penegakan hukum di bidang keimigrasian.",
@@ -1977,4 +1984,5 @@
     }
   ]
 }
+
 
